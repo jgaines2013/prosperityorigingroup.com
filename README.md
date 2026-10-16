@@ -1,7 +1,7 @@
 # Prosperity Origin Group — Website
 
 Static marketing site for Prosperity Origin Group LLC, a property management company in Sunnyvale, CA.
-Live at https://prosperityorigingroup.com, hosted on GitHub Pages.
+Live at https://prosperityorigingroup.com, hosted on GitHub Pages from https://github.com/jgaines2013/prosperityorigingroup.com.
 
 ## Files
 
@@ -34,4 +34,4 @@ GitHub Pages redeploys automatically within a minute or two.
 | A | @ | 185.199.109.153 |
 | A | @ | 185.199.110.153 |
 | A | @ | 185.199.111.153 |
-| CNAME | www | `<github-username>.github.io.` |
+| CNAME | www | `jgaines2013.github.io.` |
